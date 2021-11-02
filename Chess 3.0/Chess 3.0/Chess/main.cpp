@@ -23,7 +23,8 @@ using namespace std;
 #define BUTTON_WIDTH 200
 #define BUTTON_HEIGHT 75
 
-#define SLEEP_TIME_MILLISECONDS 200 /// 1000 = 1 second
+//contorls time between moves
+#define SLEEP_TIME_MILLISECONDS 3000 /// 1000 = 1 second
 
 /** Prototype **/
 void keyFunction(unsigned char key, int x, int y);
