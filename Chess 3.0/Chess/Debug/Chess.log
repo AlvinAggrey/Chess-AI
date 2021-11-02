@@ -1,0 +1,15 @@
+﻿  ChessPlayer.cpp
+  Board.cpp
+  Game.cpp
+  Gameplay.cpp
+  GameStatus.cpp
+  Move.cpp
+  Piece.cpp
+  Square.cpp
+  main.cpp
+  Model.cpp
+  stb_image.cpp.cpp
+  Generating Code...
+  Chess.vcxproj -> C:\Users\a012231j\Downloads\Chess 3.0\Chess 3.0\Debug\Chess.exe
+  C:\Users\a012231j\Downloads\Chess 3.0\Chess 3.0\dll\dbg\freeglut.dll
+  1 File(s) copied
